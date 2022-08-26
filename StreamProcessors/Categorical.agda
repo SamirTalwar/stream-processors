@@ -1,3 +1,5 @@
+{-# OPTIONS --sized-types #-}
+
 module StreamProcessors.Categorical where
 
 open import Algebra.Definitions

@@ -1,3 +1,5 @@
+{-# OPTIONS --sized-types #-}
+
 module StreamProcessors.Core where
 
 open import Codata.Thunk as Thunk using (Thunk; force)

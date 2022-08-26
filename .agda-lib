@@ -1,0 +1,5 @@
+name: stream-processors
+include:
+  .
+depend:
+  standard-library
